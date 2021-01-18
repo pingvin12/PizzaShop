@@ -5,7 +5,7 @@ The website is in hungarian language.
 A working backend may come in the future.
 
 home page:
-![alt text](https://pasteboard.co/JKbWxsu.png)
+![alt text](https://imgur.com/a/MwXQqWV)
 
 
 
